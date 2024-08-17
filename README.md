@@ -4,4 +4,4 @@
 
 ---
 
-I will show my that I understand the basics of nested if statments.
+I will show that I understand the basics of nested if statments.
